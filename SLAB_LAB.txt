@@ -1,0 +1,17 @@
+OOPs concept
+1) Collection types
+2) arraylist and linkedlist difference
+3) new and new instance operator
+4) architecture of Hashmap
+5) Threads
+6) Can static and private method being overrided - No- static method can never be override bcoz static methods are loaded at the beginning of an application.
+ 
+7) java 8 features ,
+8) Streams, operational class
+9) Stream operations - what returns Intermediate and Terminal operation
+10) Optional class
+11) How do you define a single abstract method
+12) REST APIs - is possible to send payload get and delete method? - No
+13) PUT and PATCH diffenrce
+14) why REST webservice is e d mo potent?
+15) IP:{12, 0, 7, 0, 8, 0, 3}  // OP: [12, 7, 8, 3, 0, 0, 0] - = all the zeros would appear at the end without using any inbuilt functions.

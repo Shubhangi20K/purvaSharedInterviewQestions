@@ -1,0 +1,13 @@
+[Yesterday 16:37] Kumar, Bhupendra
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+ 
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+ 
+.\bin\windows\kafka-topics.bat --create --topic order-events --bootstrap-server localhost:9092
+ 
+.\bin\windows\kafka-topics.bat --describe --topic library-events --bootstrap-server localhost:9092
+
+.\bin\windows\kafka-console-producer.bat --topic order-events --bootstrap-server localhost:9092
+ 
+.\bin\windows\kafka-console-consumer.bat --topic order-events --from-beginning --bootstrap-server localhost:9092
+ 

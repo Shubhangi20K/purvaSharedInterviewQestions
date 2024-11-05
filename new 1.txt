@@ -1,0 +1,26 @@
+
+IP:{12, 0, 7, 0, 8, 0, 3}  // OP: [12, 7, 8, 3, 0, 0, 0] without using inbuilt functionalities
+
+many theroy questions 
+
+diff mono and microservice
+
+string costant pool
+
+wrapper class
+
+oops comcep
+
+polymorphism runtime pholy -dynamic
+
+spring annotation
+
+diffe rest controll -controller -config
+
+qulitfer primary
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+Define overriding?
+Can I change return type of method in Overriding?
+Can I change access specifier of method in overriding? Define all scenarios?
+If I have define private in child class then will it work or occur any error?
+What is immutability?
+How can you define immutable class?
+Date object defined in custom immutable class how to achieve immutablilty using this Date object?
+How many immutable classes in java?
+What is reflection? why use reflection?
+How to call private method using reflection define steps?
+How to sort object of Employee class and what is the restriction to sort the object?
+How many way to sort object of employee class? Which method is necessay to override in Employee class if you want to sort this class?
+Difference between comrable and comparator?
+Define micro services?
+what is the difference between api, process api and microservices?
+define post and get mapping?
+can I use post mapping for getting data which scenario you can use?
+Diffence between RequestParam and RequestHeader?
+What is actuator? How to enable actuator end points?
+How to connect with two databases in spring boot application? How to define both datasource?
+how to secure your web application using spring boot?
+How many ways to secure your web application?
+Do you know about jwt token? How to validate jwt token when user when user send request to server?
